@@ -14,7 +14,7 @@ class AnchorTextEdit(QTextEdit):
     Aunque es de solo lectura, permite:
     - seleccionar una palabra/frase;
     - dejar el cursor en un punto;
-    - crear una nota desde el menú contextual.
+    - crear una nota desde el menú contextual .
     """
 
     activated = Signal(object)
